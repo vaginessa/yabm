@@ -1,4 +1,5 @@
-# YABM: Yet Another Bookmark Manager
+# YABM: Yet Another Bookmark Manager  
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/lucapetrillo99/yabm/blob/main/LICENSE)
 [![Build and Release](https://github.com/lucapetrillo99/yabm/actions/workflows/android.yml/badge.svg)](https://github.com/lucapetrillo99/yabm/actions/workflows/android.yml)
